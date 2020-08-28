@@ -67,6 +67,8 @@ Once your work is reviewed, you will be added to the list below. Please note tha
 
 | Title | Abstract                    | Contributor |  Date  | Link | NEAR Tokens | Maintenance | Language |
 | -------- | ------------------------------ | ----------- | ------ | ---- | ----------- | --- | ---- |
+| Release a CI Pipeline doc | Same as above | @minstr22 | August 28 2020| [Github](https://github.com/minstr22/near-Protocol--ci-cd-Jenkins)  | 3,500 | 15% | EN |
+
 | Release a CI Pipeline doc | Create an article or a commented Github script to explain and execute an automated building and testing of a new release of nearcore. Before starting the project request approval in the NEAR portal. | masknetgoal634 | August 5 2020 | [Github Actions](https://github.com/masknetgoal634/nearcore-deploy) | 3,500 | 15% | EN |
 | Release a CI Pipeline doc | Same as above | @abellinii | August 6 2020| [Github](https://github.com/abellinii/near-ci)  | 3,500 | 15% | EN |
 | Release a CI Pipeline doc | Same as above | [@Hugoo](https://github.com/Hugoo) | August 19 2020| [Blog](https://blog.hugomasclet.com/deploy-near-validator-node-kubernetes/) / [GitHub Actions](https://github.com/Gielve/NearDeploy) | 3,500 | 15% | EN |
